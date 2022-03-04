@@ -1,0 +1,1 @@
+<p>This our Lab 2 project. We designed a TODO list with some basic functionalities. You can find the page <a href= "http://kobelin1.github.io/cs124-lab2"> here</a></p>..
